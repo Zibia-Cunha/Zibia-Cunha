@@ -2,21 +2,19 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DCD193C3&random=false&width=435&lines=print('hello+world!');Hello+World!)](https://git.io/typing-svg)
 
 ## Sobre mim
-Hi there, sou encantada pelo mundo de análises de negócios e dados, atualmente submersa no mundo Python, R, SQL, Excel, Machine Learning... 🎲🎯
+Sou encantada pelo mundo de análises de negócios e dados, estudante de Python, R, SQL, Excel, Machining Learning... 🎲🎯
 
 ## Minha experiência
-- **Análise de dados e negócios**: Venho de um background em análise de dados voltados para negócios, onde aprimorei minhas habilidades em extrair insights significativos de conjuntos de dados complexos para a busca constante em melhorias de negócios.
+- **Análise de dados e negócios**: Venho de um background em análise de dados voltada para negócios, onde aprimorei minhas habilidades em extrair insights significativos de conjuntos de dados complexos para a busca constante em melhorias de negócios.
   
-- **Entusiasta do Python**: O Python sempre me intrigou com sua simplicidade e versatilidade.
-- 
 - **Jogos**: Quando não estou trabalhando ou estudando, facilmente poderá me encontrar imersa no mundo dos jogos.
 
-## O que você encontrará aqui
+## O que você encontrará aqui?
 - **Jornadas de Aprendizagem**: Compartilharei minhas experiências enquanto navego pelo mundo da programação Python e outros, compartilhando os altos e baixos dessa jornada.
-- 
-- **Projetos Relacionados a Jogos**: Como sou entusiasta de jogos, você pode encontrar projetos relacionados ao desenvolvimento de jogos, quem sabe?!
-
-### Linguagens e ferramentas: 
+  
+- **Projetos Relacionados a Jogos**: Como entusiasta de jogos, você pode acabar encontrando alguns projetos relacionados ao desenvolvimento de jogos, nunca se sabe!
+  
+## Linguagens e ferramentas: 
 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
