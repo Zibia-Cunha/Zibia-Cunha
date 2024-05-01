@@ -1,8 +1,14 @@
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DCD193C3&random=false&width=435&lines=print('hello+world!');Hello+World!)](https://git.io/typing-svg)
 
+
 ## Sobre mim
 Sou encantada pelo mundo de análises de negócios e dados, estudante de Python, R, SQL, Excel, Machining Learning... 🎲🎯
+
+<div>
+<a href="https://www.linkedin.com/in/zibiaribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div> 
+
 
 ## Minha experiência
 - **Análise de dados e negócios**: Venho de um background em análise de dados voltada para negócios, onde aprimorei minhas habilidades em extrair insights significativos de conjuntos de dados complexos para a busca constante em melhorias de negócios.
