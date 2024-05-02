@@ -1,5 +1,5 @@
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=DCD193C3&random=false&width=435&lines=print('hello+world!');Hello+World!)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&color=D8DA91&center=true&vCenter=true&random=false&width=435&lines=print('Hello+World!');Hello+World!)](https://git.io/typing-svg)
 
 
 ## Sobre mim
