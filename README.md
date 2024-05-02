@@ -31,6 +31,8 @@ Sou encantada pelo mundo de análises de negócios e dados, estudante de Python,
 ![HomeBrew](https://img.shields.io/badge/-HomeBrew-yellow?logo=homebrew&style=social)&nbsp;&nbsp;
 ![Godot](https://img.shields.io/badge/-Godot-blue?logo=godotengine&style=social)&nbsp;&nbsp;
 ![clickUp](https://img.shields.io/badge/-ClickUp-blue?logo=clickup&style=social)&nbsp;&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&style=social)&nbsp;&nbsp;
+
 
 ## Análises 
 ![Zibia Github Stats](https://github-readme-stats.vercel.app/api?username=zibia-cunha&show_icons=true&theme=moltack)
