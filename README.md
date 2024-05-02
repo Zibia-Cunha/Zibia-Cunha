@@ -1,6 +1,5 @@
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&color=D8DA91&center=true&vCenter=true&random=false&width=435&lines=print('Hello+World!');Hello+World!)](https://git.io/typing-svg)
-
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&color=D8DA91&vCenter=true&random=false&width=430&lines=print('Hello+World!');Hello+World!)](https://git.io/typing-svg)
 
 ## Sobre mim
 Sou encantada pelo mundo de análises de negócios e dados, estudante de Python, R, SQL, Excel, Machining Learning... 🎲🎯
