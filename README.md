@@ -9,15 +9,7 @@ Sou encantada pelo mundo de análises de negócios e dados, estudante de Python,
 </div> 
 
 
-## Minha experiência
-- **Análise de dados e negócios**: Venho de um background em análise de dados voltada para negócios, onde aprimorei minhas habilidades em extrair insights significativos de conjuntos de dados complexos para a busca constante em melhorias de negócios.
-  
-- **Jogos**: Quando não estou trabalhando ou estudando, facilmente poderá me encontrar imersa no mundo dos jogos.
 
-## O que você encontrará aqui?
-- **Jornadas de Aprendizagem**: Compartilharei minhas experiências enquanto navego pelo mundo da programação Python e outros, compartilhando os altos e baixos dessa jornada.
-  
-- **Projetos Relacionados a Jogos**: Como entusiasta de jogos, você pode acabar encontrando alguns projetos relacionados ao desenvolvimento de jogos, nunca se sabe!
   
 ## Linguagens e ferramentas: 
 
