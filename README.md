@@ -1,8 +1,8 @@
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=2000&color=D8DA91&vCenter=true&random=false&width=430&lines=print('Hello+World!');Hello+World!)](https://git.io/typing-svg)
 
-## Sobre mim
-Sou encantada pelo mundo de análises de negócios e dados, estudante de Python, R, SQL, Excel, Machining Learning... 🎲🎯
+
+Eternamente encantada pelo mundo de análises de negócios e dados e constantemente estudante de Python, R, SQL, Excel, Machining Learning... 🎲🎯
 
 <div>
 <a href="https://www.linkedin.com/in/zibiaribeiro" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
